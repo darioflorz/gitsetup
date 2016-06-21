@@ -1,0 +1,2 @@
+# gitsetup
+HELLO GIT
